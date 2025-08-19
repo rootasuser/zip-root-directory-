@@ -1,4 +1,9 @@
 <?php
+
+/*
+    PLACE THIS CODE IN THESAME DIRECTORY FOLDER THAT YOU WANT TO CONVERT TO .ZIP 
+**/
+
 $folderToZip = __DIR__ . '/backup'; // folder you want to zip
 $zipFile = __DIR__ . '/backup.zip'; // output zip file
 
